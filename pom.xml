@@ -5,7 +5,7 @@
 	<groupId>com.olx.ci</groupId>
 	<artifactId>helloworld-example</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.0.${buildVersion}-SNAPSHOT</version>
+	<version>1.0.0.test-SNAPSHOT</version>
 
 	<distributionManagement>
 		<repository>
